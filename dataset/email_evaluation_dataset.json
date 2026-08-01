@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 1,
+        "sender": "placements@vit.ac.in",
+        "subject": "Microsoft Internship Applications Open",
+        "body": "Microsoft internship applications are now open. Interested students must apply before July 25, 2026.",
+        "received_at": "2026-07-18T10:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "internship",
+            "action_required": true,
+            "deadline": "2026-07-25"
+        }
+    },
+    {
+        "id": 2,
+        "sender": "academics@vit.ac.in",
+        "subject": "Change in DSA Class Schedule",
+        "body": "The DSA class scheduled for tomorrow at 10:00 AM has been moved to 2:00 PM in Room 301.",
+        "received_at": "2026-07-18T11:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "80-90",
+            "category": "academic",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 3,
+        "sender": "examinations@vit.ac.in",
+        "subject": "Mid-Semester Examination Schedule Released",
+        "body": "The Mid-Semester Examination schedule has been published. Students are requested to check their examination dates and venues.",
+        "received_at": "2026-07-18T12:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "exam",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 4,
+        "sender": "professor@vit.ac.in",
+        "subject": "DSA Assignment Submission",
+        "body": "Please submit your DSA Assignment 3 before July 21, 2026. Late submissions will not be accepted.",
+        "received_at": "2026-07-18T13:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "assignment",
+            "action_required": true,
+            "deadline": "2026-07-21"
+        }
+    },
+    {
+        "id": 5,
+        "sender": "careers@google.com",
+        "subject": "Software Engineering Internship Application Update",
+        "body": "Your application for the Software Engineering Internship has progressed to the next stage. Please complete the online assessment before July 23, 2026.",
+        "received_at": "2026-07-18T14:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "internship",
+            "action_required": true,
+            "deadline": "2026-07-23"
+        }
+    },
+    {
+        "id": 6,
+        "sender": "placements@vit.ac.in",
+        "subject": "Campus Recruitment Registration",
+        "body": "Registration for the upcoming campus recruitment drive closes on July 24, 2026. Eligible students must complete their registration.",
+        "received_at": "2026-07-18T15:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "placement",
+            "action_required": true,
+            "deadline": "2026-07-24"
+        }
+    },
+    {
+        "id": 7,
+        "sender": "recruitment@microsoft.com",
+        "subject": "Interview Scheduled",
+        "body": "Your technical interview has been scheduled for July 22, 2026 at 10:00 AM. Please confirm your availability.",
+        "received_at": "2026-07-18T16:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "interview",
+            "action_required": true,
+            "deadline": "2026-07-22"
+        }
+    },
+    {
+        "id": 8,
+        "sender": "alerts@bank.com",
+        "subject": "Payment Failed",
+        "body": "Your scheduled payment of INR 5,000 could not be processed. Please check your account and complete the payment.",
+        "received_at": "2026-07-18T17:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "banking",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 9,
+        "sender": "security@example.com",
+        "subject": "New Login Detected",
+        "body": "A login to your account was detected from a new device. If this was not you, secure your account immediately.",
+        "received_at": "2026-07-18T18:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "security",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 10,
+        "sender": "faculty@vit.ac.in",
+        "subject": "Tomorrow's Class Cancelled",
+        "body": "Tomorrow's Object Oriented Programming class has been cancelled. The revised schedule will be announced later.",
+        "received_at": "2026-07-18T19:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "75-90",
+            "category": "academic",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 11,
+        "sender": "examinations@vit.ac.in",
+        "subject": "Examination Venue Changed",
+        "body": "The venue for tomorrow's Database Management Systems examination has been changed from AB1-201 to AB2-405.",
+        "received_at": "2026-07-18T20:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "exam",
+            "action_required": false,
+            "deadline": "2026-07-19"
+        }
+    },
+    {
+        "id": 12,
+        "sender": "professor@vit.ac.in",
+        "subject": "Project Report Deadline Extended",
+        "body": "The deadline for submitting your DBMS project report has been extended to July 30, 2026.",
+        "received_at": "2026-07-18T21:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-95",
+            "category": "assignment",
+            "action_required": true,
+            "deadline": "2026-07-30"
+        }
+    },
+    {
+        "id": 13,
+        "sender": "internships@amazon.com",
+        "subject": "Action Required",
+        "body": "You have been shortlisted for our Software Development Internship. Complete your coding assessment before July 20, 2026.",
+        "received_at": "2026-07-18T22:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "internship",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 14,
+        "sender": "placementcell@vit.ac.in",
+        "subject": "Important Update",
+        "body": "The pre-placement talk scheduled for tomorrow has been moved to 3:00 PM. Students registered for the placement drive should attend.",
+        "received_at": "2026-07-18T09:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-95",
+            "category": "placement",
+            "action_required": true,
+            "deadline": "2026-07-19"
+        }
+    },
+    {
+        "id": 15,
+        "sender": "hr@techcompany.com",
+        "subject": "Congratulations!",
+        "body": "You have cleared the first round of our recruitment process. Please select an interview slot before July 21, 2026.",
+        "received_at": "2026-07-18T08:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "interview",
+            "action_required": true,
+            "deadline": "2026-07-21"
+        }
+    },
+    {
+        "id": 16,
+        "sender": "alerts@bank.com",
+        "subject": "Unusual Transaction Detected",
+        "body": "A transaction of INR 25,000 was made using your account. If you do not recognize this transaction, contact the bank immediately.",
+        "received_at": "2026-07-18T07:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "banking",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 17,
+        "sender": "security@service.com",
+        "subject": "Password Changed",
+        "body": "The password for your account was recently changed. If you did not make this change, reset your password immediately.",
+        "received_at": "2026-07-18T06:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "security",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 18,
+        "sender": "faculty@vit.ac.in",
+        "subject": "Attendance Warning",
+        "body": "Your attendance in Data Structures and Algorithms is below the required percentage. Please meet your faculty advisor.",
+        "received_at": "2026-07-18T05:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "academic",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 19,
+        "sender": "examinations@vit.ac.in",
+        "subject": "Hall Ticket Available",
+        "body": "Your examination hall ticket is now available for download from the student portal.",
+        "received_at": "2026-07-18T04:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-95",
+            "category": "exam",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 20,
+        "sender": "professor@vit.ac.in",
+        "subject": "Lab Assignment Resubmission Required",
+        "body": "Your submitted lab assignment contains errors. Please correct and resubmit it before July 20, 2026.",
+        "received_at": "2026-07-18T03:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "assignment",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 21,
+        "sender": "careers@google.com",
+        "subject": "Internship Offer Letter",
+        "body": "Congratulations! You have been selected for the Software Engineering Internship. Please accept your offer before July 24, 2026.",
+        "received_at": "2026-07-19T09:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "internship",
+            "action_required": true,
+            "deadline": "2026-07-24"
+        }
+    },
+    {
+        "id": 22,
+        "sender": "placements@vit.ac.in",
+        "subject": "TCS Campus Recruitment Eligibility List",
+        "body": "The list of students eligible for the upcoming TCS campus recruitment drive has been published. Please verify your eligibility.",
+        "received_at": "2026-07-19T09:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-95",
+            "category": "placement",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 23,
+        "sender": "recruitment@company.com",
+        "subject": "Interview Rescheduled",
+        "body": "Your technical interview originally scheduled for July 21 has been rescheduled to July 22, 2026 at 2:00 PM.",
+        "received_at": "2026-07-19T10:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "interview",
+            "action_required": false,
+            "deadline": "2026-07-22"
+        }
+    },
+    {
+        "id": 24,
+        "sender": "alerts@bank.com",
+        "subject": "Low Account Balance",
+        "body": "Your account balance has fallen below INR 1,000. Please maintain sufficient balance to avoid failed automatic payments.",
+        "received_at": "2026-07-19T10:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "75-90",
+            "category": "banking",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 25,
+        "sender": "security@google.com",
+        "subject": "Security Alert",
+        "body": "Someone tried to sign in to your account using an incorrect password. Review your recent security activity.",
+        "received_at": "2026-07-19T11:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "security",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 26,
+        "sender": "linuxclub@vit.ac.in",
+        "subject": "Linux Club Team Meeting",
+        "body": "There will be a team meeting tomorrow at 6:00 PM to discuss plans for the upcoming event.",
+        "received_at": "2026-07-19T11:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "60-75",
+            "category": "club",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 27,
+        "sender": "hackathon@techfest.com",
+        "subject": "Hackathon Registration Closing Soon",
+        "body": "Registration for the National AI Hackathon closes on July 22, 2026. Register before the deadline if you want to participate.",
+        "received_at": "2026-07-19T12:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "65-80",
+            "category": "hackathon",
+            "action_required": true,
+            "deadline": "2026-07-22"
+        }
+    },
+    {
+        "id": 28,
+        "sender": "events@developerconference.com",
+        "subject": "Free AI Developer Workshop",
+        "body": "Join our free online workshop on building applications with generative AI this Saturday. Registration is now open.",
+        "received_at": "2026-07-19T12:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "event",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 29,
+        "sender": "codingclub@vit.ac.in",
+        "subject": "Competitive Programming Contest",
+        "body": "The coding club is conducting a competitive programming contest on July 25. Students interested in participating can register online.",
+        "received_at": "2026-07-19T13:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "event",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 30,
+        "sender": "amazon@shopping.com",
+        "subject": "Your Order Has Been Shipped",
+        "body": "Your order has been shipped and is expected to arrive on July 21.",
+        "received_at": "2026-07-19T13:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "20-40",
+            "category": "shopping",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 31,
+        "sender": "offers@shopping.com",
+        "subject": "50% Off Today Only",
+        "body": "Get up to 50% off on selected products during our special one-day sale.",
+        "received_at": "2026-07-19T14:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "0-20",
+            "category": "promotion",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 32,
+        "sender": "newsletter@technology.com",
+        "subject": "Weekly Technology Newsletter",
+        "body": "Here are this week's top stories about artificial intelligence, cloud computing and software development.",
+        "received_at": "2026-07-19T14:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 33,
+        "sender": "amazon@shopping.com",
+        "subject": "Delivery Attempt Failed",
+        "body": "We were unable to deliver your package today. Please update your delivery instructions to avoid the order being returned.",
+        "received_at": "2026-07-19T15:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "60-75",
+            "category": "shopping",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 34,
+        "sender": "placements@vit.ac.in",
+        "subject": "Weekly Placement Newsletter",
+        "body": "Welcome to this week's placement newsletter. Read career tips, interview preparation advice and industry news.",
+        "received_at": "2026-07-19T15:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "20-40",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 35,
+        "sender": "faculty@vit.ac.in",
+        "subject": "Important Update",
+        "body": "Tomorrow's DSA examination has been postponed. The examination will now be conducted on July 25, 2026.",
+        "received_at": "2026-07-19T16:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "exam",
+            "action_required": false,
+            "deadline": "2026-07-25"
+        }
+    },
+    {
+        "id": 36,
+        "sender": "recruitment@startup.com",
+        "subject": "Congratulations!",
+        "body": "You have been shortlisted for the final round of our software engineering internship. Please confirm your interview slot before July 20, 2026.",
+        "received_at": "2026-07-19T16:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "interview",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 37,
+        "sender": "account@service.com",
+        "subject": "Your Account",
+        "body": "We detected a login attempt from an unknown device in another country. If this wasn't you, secure your account immediately.",
+        "received_at": "2026-07-19T17:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "security",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 38,
+        "sender": "professor@vit.ac.in",
+        "subject": "Regarding Your Project",
+        "body": "I reviewed your project proposal. Please meet me in my office tomorrow at 11:00 AM to discuss the required changes.",
+        "received_at": "2026-07-19T17:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-95",
+            "category": "academic",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 39,
+        "sender": "offers@bank.com",
+        "subject": "Exclusive Credit Card Offer",
+        "body": "You are eligible for a premium credit card with exciting rewards and cashback benefits. Apply today.",
+        "received_at": "2026-07-19T18:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "promotion",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 40,
+        "sender": "careernews@example.com",
+        "subject": "Top 10 Companies Hiring Software Engineers",
+        "body": "Read our weekly article about companies currently hiring software engineers and tips for improving your resume.",
+        "received_at": "2026-07-19T18:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "20-40",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 41,
+        "sender": "professor@vit.ac.in",
+        "subject": "Quiz Tomorrow",
+        "body": "A quiz on Data Structures will be conducted tomorrow during the regular class hour.",
+        "received_at": "2026-07-19T19:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "academic",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 42,
+        "sender": "examinations@vit.ac.in",
+        "subject": "Exam Results Published",
+        "body": "The results of the Mid-Semester Examination have been published on the student portal.",
+        "received_at": "2026-07-19T19:10:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "80-95",
+            "category": "exam",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 43,
+        "sender": "professor@vit.ac.in",
+        "subject": "Assignment Evaluation Completed",
+        "body": "Your DSA Assignment 2 has been evaluated. You can view your marks and feedback on the student portal.",
+        "received_at": "2026-07-19T19:20:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "70-85",
+            "category": "assignment",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 44,
+        "sender": "internships@startup.com",
+        "subject": "Internship Application Received",
+        "body": "Thank you for applying for our software engineering internship. We have received your application and will contact you if you are shortlisted.",
+        "received_at": "2026-07-19T19:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "internship",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 45,
+        "sender": "placements@vit.ac.in",
+        "subject": "Company Presentation Recording",
+        "body": "The recording of yesterday's company pre-placement presentation is now available for students to watch.",
+        "received_at": "2026-07-19T19:40:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "placement",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 46,
+        "sender": "recruitment@company.com",
+        "subject": "Thank You for Interviewing With Us",
+        "body": "Thank you for taking the time to interview with our team. We are currently reviewing candidates and will contact you with an update.",
+        "received_at": "2026-07-19T19:50:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "interview",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 47,
+        "sender": "alerts@bank.com",
+        "subject": "Monthly Account Statement Available",
+        "body": "Your monthly bank account statement is now available for download through internet banking.",
+        "received_at": "2026-07-19T20:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "banking",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 48,
+        "sender": "security@service.com",
+        "subject": "Two-Factor Authentication Enabled",
+        "body": "Two-factor authentication has been successfully enabled on your account as requested.",
+        "received_at": "2026-07-19T20:10:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "security",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 49,
+        "sender": "linuxclub@vit.ac.in",
+        "subject": "Club Event Photos",
+        "body": "Photos from last week's Linux Club event have been uploaded. Members can view them using the shared drive link.",
+        "received_at": "2026-07-19T20:20:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "club",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 50,
+        "sender": "hackathon@techfest.com",
+        "subject": "Hackathon Results Announced",
+        "body": "The final results of the AI Hackathon have been published. Visit the website to view the winning teams.",
+        "received_at": "2026-07-19T20:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "hackathon",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 51,
+        "sender": "events@techcommunity.com",
+        "subject": "Web Development Webinar",
+        "body": "Join our free webinar next week to learn about modern web development frameworks and tools.",
+        "received_at": "2026-07-19T20:40:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "20-40",
+            "category": "event",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 52,
+        "sender": "shopping@example.com",
+        "subject": "Order Delivered",
+        "body": "Your order has been successfully delivered. We hope you enjoy your purchase.",
+        "received_at": "2026-07-19T20:50:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "shopping",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 53,
+        "sender": "offers@example.com",
+        "subject": "Special Offer Just for You",
+        "body": "Enjoy an additional 20 percent discount on your next purchase. This limited-time offer is available this weekend.",
+        "received_at": "2026-07-19T21:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "0-20",
+            "category": "promotion",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 54,
+        "sender": "newsletter@coding.com",
+        "subject": "Your Weekly Coding Digest",
+        "body": "Here are popular programming articles, coding challenges and developer news from this week.",
+        "received_at": "2026-07-19T21:10:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 55,
+        "sender": "professor@vit.ac.in",
+        "subject": "Please See Me",
+        "body": "Please meet me tomorrow after class regarding your performance in the recent examination.",
+        "received_at": "2026-07-19T21:20:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-95",
+            "category": "academic",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 56,
+        "sender": "recruitment@company.com",
+        "subject": "Application Update",
+        "body": "We would like to invite you to the next stage of our recruitment process. Please complete the coding assessment within 48 hours.",
+        "received_at": "2026-07-19T21:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "interview",
+            "action_required": true,
+            "deadline": "within 48 hours"
+        }
+    },
+    {
+        "id": 57,
+        "sender": "bank@alerts.com",
+        "subject": "Transaction Completed",
+        "body": "Your payment of INR 499 for your monthly subscription was successfully processed.",
+        "received_at": "2026-07-19T21:40:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "banking",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 58,
+        "sender": "security@service.com",
+        "subject": "Account Recovery Request",
+        "body": "We received a request to recover your account. If you did not request account recovery, secure your account immediately.",
+        "received_at": "2026-07-19T21:50:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "security",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 59,
+        "sender": "shopping@example.com",
+        "subject": "Refund Processed",
+        "body": "Your refund of INR 2,499 has been successfully processed and should appear in your account within five business days.",
+        "received_at": "2026-07-19T22:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "shopping",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 60,
+        "sender": "payments@example.com",
+        "subject": "Refund Failed - Action Required",
+        "body": "We were unable to process your refund of INR 8,000 due to incorrect bank details. Please update your bank information to receive your refund.",
+        "received_at": "2026-07-19T22:10:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "80-95",
+            "category": "banking",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 61,
+        "sender": "professor@vit.ac.in",
+        "subject": "Class Notes Uploaded",
+        "body": "The notes for today's Data Structures class have been uploaded to the student portal.",
+        "received_at": "2026-07-19T22:20:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "academic",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 62,
+        "sender": "examinations@vit.ac.in",
+        "subject": "Supplementary Exam Registration",
+        "body": "Registration for supplementary examinations closes on July 24, 2026. Eligible students must register before the deadline.",
+        "received_at": "2026-07-19T22:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-100",
+            "category": "exam",
+            "action_required": true,
+            "deadline": "2026-07-24"
+        }
+    },
+    {
+        "id": 63,
+        "sender": "professor@vit.ac.in",
+        "subject": "Assignment Reference Materials",
+        "body": "I have uploaded additional reference materials that may help you complete the upcoming assignment.",
+        "received_at": "2026-07-19T22:40:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "assignment",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 64,
+        "sender": "internships@company.com",
+        "subject": "Application Deadline Extended",
+        "body": "The deadline for the Software Engineering Internship application has been extended to July 30, 2026.",
+        "received_at": "2026-07-19T22:50:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "80-95",
+            "category": "internship",
+            "action_required": true,
+            "deadline": "2026-07-30"
+        }
+    },
+    {
+        "id": 65,
+        "sender": "placements@vit.ac.in",
+        "subject": "Placement Preparation Session",
+        "body": "A resume preparation session will be conducted next Saturday for students interested in campus placements.",
+        "received_at": "2026-07-19T23:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "placement",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 66,
+        "sender": "hr@company.com",
+        "subject": "Final Interview Result",
+        "body": "Congratulations! You have successfully cleared the final interview and have been selected for the Software Engineer position.",
+        "received_at": "2026-07-19T23:10:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "interview",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 67,
+        "sender": "alerts@bank.com",
+        "subject": "Debit Card Expiring Soon",
+        "body": "Your debit card will expire next month. A replacement card will be issued automatically.",
+        "received_at": "2026-07-19T23:20:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "banking",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 68,
+        "sender": "security@service.com",
+        "subject": "Email Address Updated",
+        "body": "The email address associated with your account was changed. If you did not make this change, contact support immediately.",
+        "received_at": "2026-07-19T23:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "security",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 69,
+        "sender": "linuxclub@vit.ac.in",
+        "subject": "Volunteer Registration",
+        "body": "We are looking for volunteers for next month's Linux Club event. Interested members can fill out the registration form.",
+        "received_at": "2026-07-19T23:40:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "club",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 70,
+        "sender": "hackathon@techfest.com",
+        "subject": "You Have Been Selected",
+        "body": "Your team has been selected for the final round of the National AI Hackathon. Please confirm your participation before July 22, 2026.",
+        "received_at": "2026-07-19T23:50:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "80-95",
+            "category": "hackathon",
+            "action_required": true,
+            "deadline": "2026-07-22"
+        }
+    },
+    {
+        "id": 71,
+        "sender": "events@developerconference.com",
+        "subject": "Registration Confirmed",
+        "body": "Your registration for the developer conference has been successfully confirmed. No further action is required.",
+        "received_at": "2026-07-20T00:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "event",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 72,
+        "sender": "shopping@example.com",
+        "subject": "Payment Required",
+        "body": "Your order is currently on hold because payment was unsuccessful. Complete payment within 24 hours to avoid cancellation.",
+        "received_at": "2026-07-20T00:10:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "65-80",
+            "category": "shopping",
+            "action_required": true,
+            "deadline": "within 24 hours"
+        }
+    },
+    {
+        "id": 73,
+        "sender": "offers@example.com",
+        "subject": "Urgent: Sale Ends Tonight",
+        "body": "Hurry! Our biggest sale of the year ends tonight. Shop now and save up to 70 percent.",
+        "received_at": "2026-07-20T00:20:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "0-20",
+            "category": "promotion",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 74,
+        "sender": "newsletter@career.com",
+        "subject": "Urgent Career News",
+        "body": "Read this week's collection of career advice, industry trends and resume tips in our newsletter.",
+        "received_at": "2026-07-20T00:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 75,
+        "sender": "professor@vit.ac.in",
+        "subject": "Regarding Tomorrow",
+        "body": "Please bring your completed project report to tomorrow's class. It will be collected at the beginning of the session.",
+        "received_at": "2026-07-20T00:40:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "assignment",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 76,
+        "sender": "unknown@example.com",
+        "subject": "Hello",
+        "body": "Your interview begins in two hours. Please join using the meeting link provided in your previous email.",
+        "received_at": "2026-07-20T00:50:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "interview",
+            "action_required": true,
+            "deadline": "within 2 hours"
+        }
+    },
+    {
+        "id": 77,
+        "sender": "notifications@service.com",
+        "subject": "Action Required",
+        "body": "Your subscription payment could not be processed. Update your payment information if you wish to continue using the premium service.",
+        "received_at": "2026-07-20T01:00:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "other",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 78,
+        "sender": "security@service.com",
+        "subject": "Congratulations, You Won!",
+        "body": "You have won a free smartphone. Click the link below and enter your account password to claim your prize.",
+        "received_at": "2026-07-20T01:10:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "80-100",
+            "category": "security",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 79,
+        "sender": "professor@vit.ac.in",
+        "subject": "No Class Tomorrow",
+        "body": "There will be no class tomorrow due to a faculty meeting. Please continue working on your project.",
+        "received_at": "2026-07-20T01:20:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "70-85",
+            "category": "academic",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 80,
+        "sender": "placements@vit.ac.in",
+        "subject": "Reminder",
+        "body": "This is your final reminder to complete registration for tomorrow's campus recruitment drive. Registration closes tonight.",
+        "received_at": "2026-07-20T01:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "placement",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 81,
+        "sender": "examinations@vit.ac.in",
+        "subject": "Important Examination Notice",
+        "body": "Students appearing for tomorrow's examination must carry their university ID card and hall ticket.",
+        "received_at": "2026-07-20T02:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-95",
+            "category": "exam",
+            "action_required": true,
+            "deadline": "2026-07-21"
+        }
+    },
+    {
+        "id": 82,
+        "sender": "professor@vit.ac.in",
+        "subject": "Assignment Deadline Reminder",
+        "body": "This is a reminder that your database assignment must be submitted before 11:59 PM tonight.",
+        "received_at": "2026-07-20T08:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "assignment",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 83,
+        "sender": "internships@company.com",
+        "subject": "Internship Program Newsletter",
+        "body": "Read stories from our current interns and learn about life at our company in this month's internship newsletter.",
+        "received_at": "2026-07-20T08:10:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 84,
+        "sender": "placements@vit.ac.in",
+        "subject": "Resume Submission Required",
+        "body": "Students participating in the upcoming placement drive must upload their latest resume before July 22, 2026.",
+        "received_at": "2026-07-20T08:20:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "placement",
+            "action_required": true,
+            "deadline": "2026-07-22"
+        }
+    },
+    {
+        "id": 85,
+        "sender": "hr@company.com",
+        "subject": "Interview Feedback Survey",
+        "body": "Thank you for attending your recent interview. Please take a few minutes to complete our optional feedback survey.",
+        "received_at": "2026-07-20T08:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "20-40",
+            "category": "interview",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 86,
+        "sender": "alerts@bank.com",
+        "subject": "Large Transaction Alert",
+        "body": "A transaction of INR 50,000 was completed from your account. If you do not recognize this transaction, contact the bank immediately.",
+        "received_at": "2026-07-20T08:40:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "banking",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 87,
+        "sender": "security@service.com",
+        "subject": "Security Newsletter",
+        "body": "Learn five simple ways to improve your online security and protect your digital accounts.",
+        "received_at": "2026-07-20T08:50:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 88,
+        "sender": "linuxclub@vit.ac.in",
+        "subject": "Core Team Meeting - Attendance Required",
+        "body": "All core team members must attend the meeting tomorrow at 5:00 PM to finalize responsibilities for the upcoming event.",
+        "received_at": "2026-07-20T09:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "70-85",
+            "category": "club",
+            "action_required": true,
+            "deadline": "2026-07-21"
+        }
+    },
+    {
+        "id": 89,
+        "sender": "hackathon@techfest.com",
+        "subject": "Hackathon Submission Deadline",
+        "body": "Teams must submit their final project before 10:00 PM tonight to remain eligible for judging.",
+        "received_at": "2026-07-20T09:10:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-100",
+            "category": "hackathon",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    },
+    {
+        "id": 90,
+        "sender": "events@developercommunity.com",
+        "subject": "Event Venue Changed",
+        "body": "The developer meetup you registered for has been moved to a different venue. Please check the updated location before attending tomorrow.",
+        "received_at": "2026-07-20T09:20:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "60-75",
+            "category": "event",
+            "action_required": true,
+            "deadline": "2026-07-21"
+        }
+    },
+    {
+        "id": 91,
+        "sender": "shopping@example.com",
+        "subject": "Order Cancelled",
+        "body": "Your recent order has been cancelled because the item is no longer available. Any payment made will be automatically refunded.",
+        "received_at": "2026-07-20T09:30:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "30-50",
+            "category": "shopping",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 92,
+        "sender": "offers@example.com",
+        "subject": "Final Warning",
+        "body": "This is your final chance to claim an exclusive 80 percent discount on selected products before midnight.",
+        "received_at": "2026-07-20T09:40:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "0-20",
+            "category": "promotion",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 93,
+        "sender": "newsletter@college.com",
+        "subject": "Important Campus Updates",
+        "body": "Read this month's campus newsletter featuring student achievements, upcoming cultural events and campus news.",
+        "received_at": "2026-07-20T09:50:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "newsletter",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 94,
+        "sender": "faculty@vit.ac.in",
+        "subject": "Update",
+        "body": "Your laboratory examination scheduled for next week has been moved to tomorrow morning at 9:00 AM.",
+        "received_at": "2026-07-20T10:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "exam",
+            "action_required": true,
+            "deadline": "2026-07-21"
+        }
+    },
+    {
+        "id": 95,
+        "sender": "unknown@example.com",
+        "subject": "Quick Question",
+        "body": "We reviewed your internship application and would like to schedule an interview. Please reply with your available time slots before tomorrow.",
+        "received_at": "2026-07-20T10:10:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "90-100",
+            "category": "interview",
+            "action_required": true,
+            "deadline": "2026-07-21"
+        }
+    },
+    {
+        "id": 96,
+        "sender": "alerts@bank.com",
+        "subject": "Congratulations!",
+        "body": "You have earned 500 reward points on your credit card. Redeem them for shopping vouchers and other rewards.",
+        "received_at": "2026-07-20T10:20:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "10-30",
+            "category": "promotion",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 97,
+        "sender": "security@service.com",
+        "subject": "Your Verification Code",
+        "body": "Your one-time verification code is 482931. Do not share this code with anyone. If you did not request this code, review your account security.",
+        "received_at": "2026-07-20T10:30:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "85-100",
+            "category": "security",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 98,
+        "sender": "professor@vit.ac.in",
+        "subject": "Project Discussion",
+        "body": "I would like to discuss your project progress. There is no urgency; please meet me sometime next week when you are available.",
+        "received_at": "2026-07-20T10:40:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "academic",
+            "action_required": true,
+            "deadline": null
+        }
+    },
+    {
+        "id": 99,
+        "sender": "recruitment@company.com",
+        "subject": "Application Status",
+        "body": "Unfortunately, we will not be moving forward with your application for the Software Engineering Internship. Thank you for your interest.",
+        "received_at": "2026-07-20T10:50:00+05:30",
+        "expected": {
+            "important": false,
+            "importance_range": "40-60",
+            "category": "internship",
+            "action_required": false,
+            "deadline": null
+        }
+    },
+    {
+        "id": 100,
+        "sender": "professor@vit.ac.in",
+        "subject": "URGENT",
+        "body": "The assignment deadline mentioned in my previous email was incorrect. The correct deadline is tonight at 11:59 PM. Please submit your work before then.",
+        "received_at": "2026-07-20T11:00:00+05:30",
+        "expected": {
+            "important": true,
+            "importance_range": "95-100",
+            "category": "assignment",
+            "action_required": true,
+            "deadline": "2026-07-20"
+        }
+    }
+]
